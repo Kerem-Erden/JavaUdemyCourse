@@ -1,0 +1,6 @@
+Why we use JDK 17 ? 
+-Because JDK 17 is LTS (Long Term Support)
+
+2 motivation video
+https://www.youtube.com/watch?v=vsg5P40x8xo&list=PLXtTjtWmQhg1YRG0L0dIT5B22Utujaq20&index=7
+https://www.youtube.com/watch?v=VHAXJxcHA1k&list=PLXtTjtWmQhg1YRG0L0dIT5B22Utujaq20&index=83

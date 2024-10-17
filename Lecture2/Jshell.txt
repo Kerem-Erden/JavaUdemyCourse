@@ -1,0 +1,7 @@
+open cmd and write jshell
+
+/help
+
+
+/exit
+
